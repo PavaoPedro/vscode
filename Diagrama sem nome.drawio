@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T14:44:59.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HvrfTKkSr-YmBMabvcnL" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T14:50:25.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7V6bepMYcfzZboqF7X6N" version="21.1.2" type="github">
   <diagram name="Página-1" id="HQuNqOtXM937pcGk3T5x">
     <mxGraphModel dx="756" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,9 +7,7 @@
         <mxCell id="p1mFdIxeezli4ScWppZF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-11" target="p1mFdIxeezli4ScWppZF-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="165" />
-              <mxPoint x="437" y="165" />
-              <mxPoint x="437" y="235" />
+              <mxPoint x="430" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -20,7 +18,12 @@
           <mxGeometry x="374" y="220" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-18" target="p1mFdIxeezli4ScWppZF-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="360" />
+              <mxPoint x="293" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-18" value="&lt;div style=&quot;color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Digite seu seu salario&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="126" height="80" as="geometry" />
@@ -36,6 +39,9 @@
             <mxPoint x="437" y="350" as="targetPoint" />
             <mxPoint x="437" y="300" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p1mFdIxeezli4ScWppZF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-21" target="p1mFdIxeezli4ScWppZF-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-21" value="&lt;div style=&quot;color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;nome_funcionario&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="387" y="390" width="100" height="60" as="geometry" />
@@ -54,15 +60,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1mFdIxeezli4ScWppZF-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.762;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="730" y="10" as="sourcePoint" />
-            <mxPoint x="530" y="137" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="630" y="87" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-33" target="p1mFdIxeezli4ScWppZF-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -72,6 +69,9 @@
         <mxCell id="p1mFdIxeezli4ScWppZF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-35" target="p1mFdIxeezli4ScWppZF-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="296" y="658" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-35" value="&#xa;&lt;div style=&quot;color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f8f8f2;&quot;&gt;salario_bruto&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="1">
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-37" value="&lt;div style=&quot;color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;*&lt;span style=&quot;color: #ae81ff;&quot;&gt;15&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="73" y="547.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="73" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-40" target="p1mFdIxeezli4ScWppZF-51">
           <mxGeometry relative="1" as="geometry">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-40" value="&lt;div style=&quot;color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;/&lt;span style=&quot;color: #ae81ff;&quot;&gt;100&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="73" y="687.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="73" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-51" target="p1mFdIxeezli4ScWppZF-46">
           <mxGeometry relative="1" as="geometry">
@@ -99,16 +99,26 @@
         <mxCell id="p1mFdIxeezli4ScWppZF-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-46" target="p1mFdIxeezli4ScWppZF-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="293" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="680" />
+              <mxPoint x="500" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p1mFdIxeezli4ScWppZF-46" value="&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(248, 248, 242);&quot;&gt;comissao_vendas +&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;salario_bruto&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="220" y="910" width="150" height="90" as="geometry" />
+        <mxCell id="p1mFdIxeezli4ScWppZF-46" value="&lt;span style=&quot;color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px;&quot;&gt;comissao_vendas +&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;salario_bruto&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="250" y="635" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="p1mFdIxeezli4ScWppZF-50" value="&#xa;&lt;div style=&quot;color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f8f8f2;&quot;&gt;salario_liquido&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1130" width="100" height="60" as="geometry" />
+        <mxCell id="p1mFdIxeezli4ScWppZF-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p1mFdIxeezli4ScWppZF-50" target="p1mFdIxeezli4ScWppZF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1mFdIxeezli4ScWppZF-50" value="&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;salario_liquido&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="650" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p1mFdIxeezli4ScWppZF-51" value="&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(248, 248, 242); background-color: rgb(39, 40, 34); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(248, 248, 242);&quot;&gt;comissao_vendas&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="236" y="760" width="100" height="60" as="geometry" />
+          <mxGeometry x="83" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p1mFdIxeezli4ScWppZF-52" value="salario_fimDoMEs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
